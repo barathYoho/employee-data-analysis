@@ -1,4 +1,4 @@
-# Employee Data Analysis
+﻿# Employee Data Analysis
 
 ## Project Overview
 This project focuses on analyzing employee data using Python and Pandas. The goal is to explore employee information and identify useful business insights.
@@ -17,7 +17,6 @@ This project focuses on analyzing employee data using Python and Pandas. The goa
 - Git and GitHub
 
 ## Initial Data Exploration
-The following operations were performed:
 1. Load the employee dataset.
 2. Check dataset shape.
 3. Inspect dataset information using `info()`.
@@ -33,9 +32,10 @@ The following operations were performed:
 5. What is the average salary of all employees?
 
 ## Project Structure
-- `data/` – Dataset files
-- `notebooks/` – Jupyter notebooks
-- `README.md` – Project documentation
+- `data/` - Dataset files
+- `notebooks/` - Jupyter notebooks
+- `reports/` - Analysis results and charts
+- `README.md` - Project documentation
 
 ## Project Status
-Task 2 – Project Kick-off and Initial Data Exploration.
+Task 2 - Project Kick-off and Initial Data Exploration.
