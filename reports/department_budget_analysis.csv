@@ -1,0 +1,5 @@
+department,employee_count,total_salary,department_budget,remaining_budget
+Finance,1,90000,300000,210000
+HR,2,93000,200000,107000
+IT,3,203000,400000,197000
+Sales,2,82000,350000,268000

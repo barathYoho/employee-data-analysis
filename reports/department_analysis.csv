@@ -1,5 +1,5 @@
-department,Employee_Count,Average_Salary,Maximum_Salary,Minimum_Salary
-Finance,1,90000.0,90000,90000
-HR,2,46500.0,48000,45000
-IT,3,67666.67,75000,60000
-Sales,2,41000.0,52000,30000
+department,employee_count,average_salary,minimum_salary,maximum_salary,salary_std
+Finance,1,90000.0,90000,90000,
+HR,2,46500.0,45000,48000,2121.32
+IT,3,67666.67,60000,75000,7505.55
+Sales,2,41000.0,30000,52000,15556.35

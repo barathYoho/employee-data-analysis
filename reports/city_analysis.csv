@@ -1,4 +1,4 @@
-city,Employee_Count,Average_Salary,Maximum_Salary
-Bangalore,2,56000.0,60000
-Chennai,4,54500.0,75000
-Mumbai,2,69000.0,90000
+city,employee_count,average_salary,total_salary
+Bangalore,2,56000.0,112000
+Chennai,4,54500.0,218000
+Mumbai,2,69000.0,138000
